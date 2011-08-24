@@ -1,0 +1,10 @@
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.log
+*.pdf
+*.tex.bak
+*.tex.sav
+*.bib.bak
+*.log
