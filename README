@@ -1,0 +1,7 @@
+Todos are marked with syntax:
+-Current tasks
+    \todo{Task description}
+-Completed tasks
+    \done\todo{Task descriptoin}
+
+Task are printed at the end of the document. All todo markings can be supressed by adding the optional [hide] argument at the todo package declaration
